@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/CoreyThuro/record-store.git/static/js/main.132bd948.chunk.js",
+    "main.js.map": "/CoreyThuro/record-store.git/static/js/main.132bd948.chunk.js.map",
+    "runtime-main.js": "/CoreyThuro/record-store.git/static/js/runtime-main.0add4736.js",
+    "runtime-main.js.map": "/CoreyThuro/record-store.git/static/js/runtime-main.0add4736.js.map",
+    "static/js/2.235187c0.chunk.js": "/CoreyThuro/record-store.git/static/js/2.235187c0.chunk.js",
+    "static/js/2.235187c0.chunk.js.map": "/CoreyThuro/record-store.git/static/js/2.235187c0.chunk.js.map",
+    "index.html": "/CoreyThuro/record-store.git/index.html",
+    "static/js/2.235187c0.chunk.js.LICENSE.txt": "/CoreyThuro/record-store.git/static/js/2.235187c0.chunk.js.LICENSE.txt",
+    "static/media/logo.3d20acac.jpg": "/CoreyThuro/record-store.git/static/media/logo.3d20acac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0add4736.js",
+    "static/js/2.235187c0.chunk.js",
+    "static/js/main.132bd948.chunk.js"
+  ]
+}
